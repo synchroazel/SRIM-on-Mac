@@ -23,7 +23,7 @@ brew install --no-quarantine gcenx/wine/unofficial-wineskin
 
 ## Download SRIM
 
-You could download SRIM from the official website [here](http://www.srim.org), but it would require again a Windows Machine to launch it and extract the files. You can download the already unzipped foldere using the link below:
+You could download SRIM from the official website [here](http://www.srim.org), but it would require again a Windows Machine to launch it and extract the files. You can download the already unzipped folder using the link below:
 
 - [SRIM-2013-Std.zip](https://drive.google.com/file/d/1fLsllasUcXaH9uEcfKZbfM9Aw1vOli3A/view?usp=share_link) (from my Google Drive)
 

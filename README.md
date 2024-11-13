@@ -61,7 +61,7 @@ cd %ProgramFiles%/SRIM-2013-Std/SRIM-Setup
 
 - if prompted to press a key to continue the installation, go ahead and press any key ;
 
-- when the script terminates, close the terminal and wait for it to shutdown (if you see *“a tool is running”* in the upper left cornet of *Wineskin Advanced”*, please wait for it to disappear) ;
+- when the script terminates, close the terminal and wait for it to shutdown (if you see *“a tool is running”* in the upper left corner of *Wineskin Advanced”*, please wait for it to disappear) ;
 
 - then close *Wineskin Advanced* and the SRIM opened folder ;
 
